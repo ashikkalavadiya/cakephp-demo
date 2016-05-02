@@ -1,4 +1,19 @@
+<<<<<<< HEAD
+=======
+# CakePHP 3
+
+>>>>>>> e963a22cda6bc98d583f747681608efc2572dc33
 /vendor/*
 /config/app.php
 /tmp/*
 /logs/*
+<<<<<<< HEAD
+=======
+
+# CakePHP 2
+
+/app/tmp/*
+/app/Config/core.php
+/app/Config/database.php
+/vendors/*
+>>>>>>> e963a22cda6bc98d583f747681608efc2572dc33
